@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="crowdfounding_web:war">
+    <output-path>$PROJECT_DIR$/crowdfounding_web/target</output-path>
+    <root id="archive" name="crowdfounding_web.war">
+      <element id="artifact" artifact-name="crowdfounding_web:war exploded" />
+    </root>
+  </artifact>
+</component>

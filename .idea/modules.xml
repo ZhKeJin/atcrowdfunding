@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Javaweb/Javaweb.iml" filepath="$PROJECT_DIR$/Javaweb/Javaweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowdfunding-common/atcrowdfunding-common.iml" filepath="$PROJECT_DIR$/atcrowdfunding-common/atcrowdfunding-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowdfunding-manager/atcrowdfunding-manager.iml" filepath="$PROJECT_DIR$/atcrowdfunding-manager/atcrowdfunding-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowdfunding-parent/atcrowdfunding-parent.iml" filepath="$PROJECT_DIR$/atcrowdfunding-parent/atcrowdfunding-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowdfunding-portal/atcrowdfunding-portal.iml" filepath="$PROJECT_DIR$/atcrowdfunding-portal/atcrowdfunding-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atcrowdfunding-web/atcrowdfunding-web.iml" filepath="$PROJECT_DIR$/atcrowdfunding-web/atcrowdfunding-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenone/mavenone.iml" filepath="$PROJECT_DIR$/mavenone/mavenone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maventwo/maventwo.iml" filepath="$PROJECT_DIR$/maventwo/maventwo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../work/park/park.iml" filepath="$PROJECT_DIR$/../work/park/park.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text/text.iml" filepath="$PROJECT_DIR$/text/text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/text1/text1.iml" filepath="$PROJECT_DIR$/text1/text1.iml" />
+    </modules>
+  </component>
+</project>
